@@ -1,7 +1,0 @@
-// 
-// 
-// 
-
-#include "ArduinoC.h"
-
-
